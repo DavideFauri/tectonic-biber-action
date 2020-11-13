@@ -1,4 +1,4 @@
-FROM julianahrens/latex-alpine
+FROM dxjoke/tectonic-docker
 
 COPY entrypoint.sh /entrypoint.sh
 
